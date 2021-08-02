@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+a{
+	text-decoration:none ; 
+	color:black ; 
+	background-color : #B4AAC4 ; 
+	border : black 1px solid ; 
+}
+.div1 {
+	padding:5px ; 
+	margin : 10px ;
+}
+.box-1 {
+ padding-top:7px ; 
+ padding-bottom:5px ; 
+}
